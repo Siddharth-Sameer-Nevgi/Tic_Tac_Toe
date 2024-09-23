@@ -1,0 +1,21 @@
+* {
+  background-color: #232f3f;
+}
+h1 {
+  font-size: 2rem;
+  color: blanchedalmond;
+}
+
+.main {
+  justify-content: center;
+  padding: 0px;
+}
+.box {
+  width: 15%;
+  aspect-ratio: 1/1;
+  background-color: black;
+  font-size: 2rem;
+  color: black;
+  font-weight: bolder;
+  transition: width 2s, height 2s, background-color 2.5s, rotate 2s;
+}
